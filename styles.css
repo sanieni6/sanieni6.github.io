@@ -597,6 +597,10 @@ button:disabled {
   margin: 12px;
 }
 
+.nolabel {
+  display: none;
+}
+
 .center1 {
   margin: 0;
 }
