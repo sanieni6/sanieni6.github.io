@@ -1017,6 +1017,10 @@ button:disabled {
     transition-duration: 1s;
   }
 
+  .nolabel {
+    display: none;
+  }
+
   .center1 {
     margin: 0;
   }
