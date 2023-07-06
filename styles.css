@@ -71,7 +71,7 @@ body {
   font-weight: 400;
   font-size: 56px;
   letter-spacing: 0.37px;
-  color: #ff6b00;
+  color: #8a3900;
   margin-top: 130px;
   margin-bottom: 0;
 }
@@ -216,7 +216,7 @@ body {
 .image-feature {
   width: 87.2vw;
   height: auto;
-  min-height: 237px;
+  /* min-height: 237px; */
 }
 
 .card2 {
@@ -240,7 +240,10 @@ body {
   line-height: 24px;
   letter-spacing: 0.03em;
   color: #fff;
-  background: #ff6b00;
+  background: #8a3900;
+  text-decoration: none;
+  padding: 10px;
+  box-sizing: border-box;
 }
 
 .multi-post {
@@ -775,7 +778,7 @@ button:disabled {
 
   .image-feature {
     width: 47.5vw;
-    height: max-content;
+    height: 400px;
   }
 
   .card2 {
